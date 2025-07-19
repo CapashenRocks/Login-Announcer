@@ -1,5 +1,5 @@
 --Lua Script: Player Login Announcement Script
---Coded by: Capashen22 (Discord)
+--Coded by: CapashenRocks (Github)/Capashen22 (Discord)
 
 local CLASS_COLORS = {
     ["Warrior"]     = "|cffC79C6EWarrior|r",
