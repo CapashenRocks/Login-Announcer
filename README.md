@@ -1,4 +1,6 @@
-# Login-Announcer
+# Login-Announcer LUA Script
+Designed by CapashenRocks (github)/ Capashen22 (discord)
+
 # Details
 Upon character login the script will announce- "Local spies report that a CHARACTER_RACE CHARACTER_CLASS named CHARACATER_NAME has logged in! Intelligence indicates they are loyal to the CHARACTER_FACTION."
 
