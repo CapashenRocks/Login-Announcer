@@ -1,5 +1,5 @@
 # Login-Announcer LUA Script
-Designed by CapashenRocks (github)/ Capashen22 (discord)
+JerCore Announcement Script
 
 # Details
 Upon character login there will be an announcement with player name, class, race, and login location. Also added a logout announcement for flavor.
