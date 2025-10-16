@@ -1,6 +1,6 @@
 --Lua Script: Player Login & Logout Announcement Script
 --Coded by: CapashenRocks (Github)/Capashen22 (Discord)
---V2- Added login location and a logout announcement.
+--V4 Added login location and a logout announcement so now it will give player name, class, faction, and location.
 
 
 local CLASS_COLORS = {
@@ -77,3 +77,4 @@ end
 
 RegisterPlayerEvent(3, OnLogin)
 RegisterPlayerEvent(4, OnLogout)
+
